@@ -13,7 +13,7 @@ You're in luck! With just your username and password you can download videos fro
 3. `git clone https://github.com/robertDurst/four_waves_video_downloader.git`
 4. `cd four_waves_video_downloader`
 5. `bundle install`
-6. `bundle exec ruby video_download.rb`
+6. `bundle exec ruby main.rb`
 7. follow the prompts
 8. ... wait a while ...
 9. go brew a ☕ and watch your conference videos
