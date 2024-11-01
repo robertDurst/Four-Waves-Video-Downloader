@@ -6,6 +6,8 @@ You're in luck! With just your username and password you can download videos fro
 
 ## How to Use
 
+![My Movie 3](https://github.com/user-attachments/assets/84fab346-f055-4d2b-a7e1-7220906baa8f)
+
 1. [install Ruby for your machine](https://www.ruby-lang.org/en/documentation/installation/)
 2. open a terminal
 3. `git clone https://github.com/robertDurst/four_waves_video_downloader.git`
